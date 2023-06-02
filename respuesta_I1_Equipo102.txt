@@ -1,0 +1,2 @@
+a- Si, ALFA ve los datos que cargaron los demás en su repositorio.
+b- Los demás integrantes ven cuando ALFA agrega un archivo.
